@@ -1,2 +1,17 @@
 name = input("Enter your name: ")
 print("Hello", name)
+age = input("Enter your age: ")
+
+print(age)
+print(type(age))
+age = int(input("Enter your age: "))
+print(age + 1)
+height = float(input("Enter your height: "))
+print(height)
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
