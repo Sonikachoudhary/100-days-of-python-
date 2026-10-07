@@ -1,9 +1,9 @@
 age = int(input("Enter your age: "))
 
 if age >= 18:
-    print("You are an adult")
+    print("You are an Adult")
 else:
-    print("You are a minor")
+    print("You are a Minor")
 
     marks = int(input("Enter your marks: "))
 
