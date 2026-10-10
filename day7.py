@@ -15,7 +15,7 @@ print(student["Age"])
 
 # New information add karna
 
-student["City"] = "Ajmer"
+student["City"] = "Jhunjhunu"
 
 print(student)
 
