@@ -15,7 +15,7 @@ else:
         print("Grade C")
     else:
         print("Grade D")
-number = int(input("Enter a number: "))
+number = int(input("Enter a Number: "))
 
 if number > 0:
     print("Positive")
