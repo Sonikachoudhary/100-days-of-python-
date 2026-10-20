@@ -26,11 +26,11 @@ while i >= 1:
 
 print("Blast off!")
 
-print("\nPrint sum of the number 1 to 7 : ")
+print("\nPrint sum of the number 1 to 8 : ")
 i = 1
 sum = 0
 
-while i <= 7: 
+while i <= 8: 
     sum = sum + i
     i = i + 1
 
