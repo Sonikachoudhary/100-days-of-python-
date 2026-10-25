@@ -1,7 +1,7 @@
 #  Dictionaries
 
 student = {
-    "Name": "Sonika",
+    "Name": "Monika",
     "Age": 19,
     "Branch": "IT"
 }
