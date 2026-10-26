@@ -2,7 +2,7 @@
 
 print("Hello, World!");
 
-name = "Chinu"
+name = "Sonika"
 age = 20
 
 print("My name is", name);
