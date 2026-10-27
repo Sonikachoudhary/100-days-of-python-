@@ -16,7 +16,7 @@ print(fruits)
 
 fruits = ["Apple", "Grapes", "Mango", "Orange"]
 
-fruits.append("Pineapple")
+fruits.append("Papaya")
 
 # Accessing list items using index
 
